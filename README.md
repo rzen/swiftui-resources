@@ -11,5 +11,5 @@ A curated list of useful resources for Swift and more targetedly SwiftUI
 
 ## Packages
 
-- [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) provides access to sfSymbols in a statically linkable, target version-safe way.
-- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) fills the gaps between SwiftUI and UIKit/AppKit
+- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) provides access to sfSymbols in a statically linkable, target version-safe way. (not to be confused with a version hosted at [sparrowcode/SafeSFSymbols](https://github.com/sparrowcode/SafeSFSymbols) which is stale.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) fills the gaps between SwiftUI and UIKit/AppKit
