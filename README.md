@@ -4,6 +4,7 @@ A curated list of useful resources for Swift and more targetedly SwiftUI
 ## Other resource lists
 
 - [example-ios-apps](https://github.com/jogendra/example-ios-apps) Example-iOS-Apps is an amazing list for people who are beginners and learning iOS development and for iOS developers who need any example app or feature
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) an extensive resource list
 
 ## Example Apps
 
