@@ -6,10 +6,13 @@ A curated list of useful resources for Swift and more targetedly SwiftUI
 - [example-ios-apps](https://github.com/jogendra/example-ios-apps) Example-iOS-Apps is an amazing list for people who are beginners and learning iOS development and for iOS developers who need any example app or feature. MIT.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) an extensive categorized resource list. MIT.
 
-## Learning
+## Learning/Blogs
 
 - [Stanford CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu) famous Paul Hegarty's Stanford lectures
 - [Hacking With Swift](https://www.hackingwithswift.com/plus) subscription based course, also plenty of free content by Paul Hudson
+- [AtomicBird](https://atomicbird.com)
+- [FiveStars](https://www.fivestars.blog)
+- [Bruno Wernimont](http://brunowernimont.me)
 
 ## Example Apps
 
