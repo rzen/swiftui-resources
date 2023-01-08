@@ -10,7 +10,7 @@ A curated list of useful resources for Swift and more targetedly SwiftUI
 
 - [Stanford CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu) famous Paul Hegarty's Stanford lectures
 - [Hacking With Swift](https://www.hackingwithswift.com/plus) subscription based course, also plenty of free content by Paul Hudson
-- Blogs: [AtomicBird](https://atomicbird.com), [FiveStars](https://www.fivestars.blog), [Bruno Wernimont](http://brunowernimont.me)
+- Blogs: [AtomicBird](https://atomicbird.com), [FiveStars](https://www.fivestars.blog), [Bruno Wernimont](http://brunowernimont.me), [Freshly Squozen Wooji Juice](https://www.wooji-juice.com/blog/)
 
 ## Example Apps
 
